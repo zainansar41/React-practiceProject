@@ -1,0 +1,8 @@
+.card{
+    margin: 20px;
+    width: 300px;
+}
+i{
+    cursor: pointer;
+    color: blue;
+}
